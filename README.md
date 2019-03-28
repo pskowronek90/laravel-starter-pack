@@ -13,6 +13,5 @@ git clone https://github.com/pskowronek90/laravel-starter-pack.git
 cd laravel-starter-pack
 ./start.sh    
 ```
-![gif](https://i.imgur.com/urSWDzL.gif)
 
 
