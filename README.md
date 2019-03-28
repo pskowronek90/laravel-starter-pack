@@ -1,5 +1,5 @@
 # Laravel Starter Pack
-All dependencies you need by one click<br>
+All dependencies you need for <b>pure</b> Laravel project by one click<br>
 (because manual installation is always frustrating)<br>
 ## Packages list
 * Laravel IDE Helper
